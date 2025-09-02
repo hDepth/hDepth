@@ -14,7 +14,7 @@
 ## 📱 Projetos em Destaque
 
 - [**Sociautismo-App**](https://github.com/hDepth/Sociautismo-App.git)  
-  📲 Aplicativo educativo para conscientização sobre o autismo.  
+  📲 Aplicativo educativo com objetivo de estimular a comunicação e interação social de crianças autistas.
 
 - [**AppMottu**](https://github.com/hDepth/AppMottu/tree/TRY2)  
   🛵 Aplicativo mobile para mapeamento digital de motos no pátio da Mottu.  

@@ -20,10 +20,7 @@
   🛵 Aplicativo mobile para mapeamento digital de motos no pátio da Mottu.  
 
 - [**Resgate Alerta GS**](https://github.com/hDepth/ResgateAlertaGS/tree/v1needingtofix)  
-  🚨 Aplicativo para gestão de alertas e resgates em situações de emergência.  
-
-- [**Portowws**](https://github.com/hDepth/portowws)  
-  🌐 Projeto de site responsivo com foco em usabilidade e design moderno.  
+  🚨 Aplicativo para gestão de alertas e resgates em situações de emergência.   
 
 - [**CP3 APP Mobile**](https://github.com/hDepth/CP3APPMobile)  
   📱 Aplicativo mobile desenvolvido para atividade acadêmica (FIAP).  
@@ -41,5 +38,4 @@
 
 ## 📫 Contato
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-paula-fullstack-developer/)
-- [LinkedIn](https://www.linkedin.com/in/pedro-paula-fullstack-developer/)  
 - 📩 Email: dephenriquejp@gmail.com 

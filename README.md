@@ -40,5 +40,6 @@
 ---
 
 ## 📫 Contato
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-paula-fullstack-developer/)
 - [LinkedIn](https://www.linkedin.com/in/pedro-paula-fullstack-developer/)  
-- 📩 Email: *adicione seu email aqui*  
+- 📩 Email: dephenriquejp@gmail.com 

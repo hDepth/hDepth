@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Tecnologias & Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,java,html,css,mysql,sqlite,oracle,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,oracle,java,oracle,html,css,oracle,mysql,sqlite,oracle,git,github)](https://skillicons.dev)
 
 ---
 

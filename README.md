@@ -16,7 +16,7 @@
 - [**Sociautismo-App**](https://github.com/hDepth/Sociautismo-App.git)  
   📲 Aplicativo educativo com objetivo de estimular a comunicação e interação social de crianças autistas.
 
-- [**AppMottu**](https://github.com/hDepth/AppMottu/tree/TRY2)  
+- [**AppMottu**](https://github.com/hDepth/AppMottu)  
   🛵 Aplicativo mobile para mapeamento digital de motos no pátio da Mottu.  
 
 - [**Resgate Alerta GS**](https://github.com/hDepth/ResgateAlertaGS/tree/v1needingtofix)  

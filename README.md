@@ -11,7 +11,10 @@
 
 ---
 
-## 📱 Projetos em Destaque
+##  Projetos em Destaque
+
+- [**AllGoals**](https://github.com/hDepth/FuturoDoTrabalho-GS-2025)  
+  📱 App desenvolvido para gestores atribuirem metas aos colaboradores.
 
 - [**Sociautismo-App**](https://github.com/hDepth/Sociautismo-App.git)  
   📲 Aplicativo educativo com objetivo de estimular a comunicação e interação social de crianças autistas.
@@ -27,9 +30,7 @@
 
 - [**CP3 APP Mobile**](https://github.com/hDepth/CP3APPMobile)  
   📱 Aplicativo mobile desenvolvido para atividade acadêmica (FIAP).  
-
-- [**X-Men Ptfl**](https://github.com/hDepth/X-Men-Ptfl)  
-  🎮 Sistema para seleção de personagens do universo X-Men.  
+  
 
 ---
 

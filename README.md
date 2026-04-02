@@ -1,8 +1,17 @@
 # 👋 Olá, eu sou o Pedro Henrique Jorge De Paula
 
-💻 Desenvolvedor Fullstack com foco em **Desenvolvimento Mobile**  
-📱 Experiência no desenvolvimento de **aplicativos em React Native**, integração com APIs e construção de sistemas completos.  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.  
+💻 Desenvolvedor Backend com experiência em construção de APIs REST, autenticação JWT e integração com banco de dados Oracle.  
+
+📱 Também atuo com desenvolvimento mobile utilizando React Native, criando aplicações completas integradas a backend.  
+
+🚀 Principais competências:
+- Desenvolvimento de APIs com Node.js e Express  
+- Autenticação e autorização com JWT  
+- Integração com banco de dados Oracle  
+- Desenvolvimento mobile com React Native  
+- Integração frontend-backend  
+
+🎯 Busco minha primeira oportunidade como desenvolvedor para atuar com backend ou mobile e contribuir com soluções reais.
 
 ---
 
